@@ -1,0 +1,10 @@
+aiogram==3.13.1
+yt-dlp==2024.12.30
+shazamio==0.2.9
+ffmpeg-python==0.2.0
+python-dotenv==1.0.1
+pymongo==4.10.1
+aiogram-translation==0.1.5
+fuzzywuzzy==0.18.0
+python-levenshtein==0.25.1
+aiofiles==24.1.0
